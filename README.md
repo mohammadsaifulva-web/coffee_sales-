@@ -1,15 +1,15 @@
  # Coffee Sales Analytics Dashboard ☕📊
 
-A high-end, executive-level coffee sales and business analytics dashboard built in Power BI with custom dark-brown and coffee-themed aesthetics.
+A high-end, executive-level coffee sales and business analytics dashboard built in Power BI with custom dark-brown and coffee-themed aesthetics. 
 
 ---
 
 ## 🖼️ Dashboard Preview
 
 <p align="center">
-  <img src="Coffee%20Sales%20Dashboard%20Analytics" alt="Coffee Sales Dashboard" width="100%">
-</p>
-
+ </p>
+ 
+![Coffee Dashboard](./Premium_coffee.jpg)
 ---
 
 ## 🚀 Project Overview & Features
