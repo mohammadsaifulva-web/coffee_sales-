@@ -7,9 +7,9 @@ A high-end, executive-level coffee sales and business analytics dashboard built 
 ## 🖼️ Dashboard Preview
 
 <p align="center">
- </p>
  ![Coffee Dashboard](Coffee%20Sales%20Dashboard%20Analytics.png)
- 
+ </p>
+  
  ---
 
 ## 🚀 Project Overview & Features
